@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+}
+
+.counter h1 {
+    font-size: 150px;
+    margin: 20px;
+}
+
+.counter button {
+    background-color: #f1356d;
+    color: #fff;
+    padding: 10px;
+    width: 80px;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.counter button:hover {
+    background-color: #f00f53;
+    color: #fff;
+}
